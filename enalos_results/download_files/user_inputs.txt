@@ -1,0 +1,12 @@
+File name: 10gs.pdb
+ph: 7.0
+Material: Au
+hkl plane: 110
+Zeta potential (mV): 500.0
+Radius of Nanoparticle (nm): 4.0
+Ionic strength (M * e²): 0.15
+Temperature (K): 300.0
+Angle φ(°): 205.0
+Angle θ (°): 95.0
+Angle step (°): 5.0
+Number of samples per angle step (#): 6
